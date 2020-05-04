@@ -1,4 +1,8 @@
 <?php
+
+// remove time restriction
+ini_set('max_execution_time', 0);
+
 //call the autoload
 require 'vendor/autoload.php';
 
