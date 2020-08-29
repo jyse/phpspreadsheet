@@ -1,0 +1,22 @@
+// Logica
+
+- laden excelsheet;
+- initialisatie excel-object;
+- alle rijen van excel-object doorheen loopen / itereren;
+    - per rij:
+        - object maken met 4 properties: accountNumber, date, amount and description;
+
+
+
+$parsedData[
+
+    object{accountNumber: , date: , amount: , description: },
+
+    object{},
+];
+
+$parsedData[
+    object{
+        datat
+    }
+]
